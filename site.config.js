@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-blog`,
+      name: `Blog - Hieu Le Dinh`,
       href: "https://github.com/hieuledinh/morethan-blog",
     },
   ],
   // blog setting (required)
   blog: {
     title: "morethan-log",
-    description: "welcome to morethan-log!",
+    description: "welcome to profile of Hieu Le!",
   },
 
   // CONFIG configration (required)
