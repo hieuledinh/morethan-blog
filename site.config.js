@@ -6,8 +6,8 @@ const CONFIG = {
     role: "Freelance",
     bio: "Edit by Notion & Vercel",
     email: "info.leehieu@gmail.com",
-    linkedin: "Le Dinh Hieu",
-    github: "https://github.com/hieuledinh",
+    linkedin: "hieulee",
+    github: "hieuledinh",
     instagram: "",
   },
   projects: [
